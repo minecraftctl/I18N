@@ -4,8 +4,8 @@ minecraftctl i18n language file
 
 ## Translation progress
 
-- ![en_US Translation progress Progress](https://geps.dev/100/?title=en_US(inline))
-- ![en_US Translation progress Progress](https://geps.dev/0/?title=en_US)
-- ![zh_CN Translation progress Progress](https://geps.dev/100/?title=zh_CN)
+- ![en_US Translation progress Progress](https://geps.dev/progress/100/?title=en_US(inline))
+- ![en_US Translation progress Progress](https://geps.dev/progress/0/?title=en_US)
+- ![zh_CN Translation progress Progress](https://geps.dev/progress/100/?title=zh_CN)
 
 Welcome to participate in translation
